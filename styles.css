@@ -1,0 +1,30 @@
+body {
+  background-color: grey;
+  font-size: 20;
+}
+.navbar {
+  position: fixed;
+  height: 30p;
+  align-items: center;
+  top: 30px;
+  background-color: grey;
+  width: 100%;
+}
+.navbar a {
+  color: white;
+  background-color: lightblue;
+  padding: 4px;
+  border-radius: 5px;
+  margin-right: 4px;
+}
+.content {
+  margin-top: 60px;
+}
+
+.p1 {
+  size: 48;
+  color: yellow;
+}
+footer {
+  text-align: center;
+}
